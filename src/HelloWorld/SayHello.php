@@ -6,6 +6,6 @@ class SayHello
 {
     public static function word()
     {
-        return 'Hello World, composer';
+        return 'Hello World, composer update';
     }
 }
